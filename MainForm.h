@@ -136,20 +136,15 @@ namespace SuperPaint {
 		private: System::Windows::Forms::ToolStripMenuItem^ Save_BTN;
 		private: System::Windows::Forms::ToolStripMenuItem^ OpenFile_BTN;
 		private: System::Windows::Forms::Panel^ CanvasPanel;
-
 		private: System::Windows::Forms::ToolStripSeparator^ toolStripSeparator1;
 		private: System::Windows::Forms::ToolStripMenuItem^ AboutToolStripMenuItem;
-
 		private: System::Windows::Forms::ToolStripSeparator^ toolStripSeparator2;
 		private: System::Windows::Forms::ToolStripMenuItem^ ExitToolStripMenuItem;
-
 		private: System::Windows::Forms::ToolStripMenuItem^ NewToolStripMenuItem;
 		private: System::Windows::Forms::ToolStripMenuItem^ PrintToolStripMenuItem;
 		private: System::Windows::Forms::ToolStripSeparator^ toolStripSeparator3;
 		private: System::Windows::Forms::ToolStripMenuItem^ PrinterToolStripMenuItem;
 		private: System::Windows::Forms::ToolStripMenuItem^ PageParamToolStripMenuItem;
-
-
 
 		private: System::ComponentModel::IContainer^ components;
 
